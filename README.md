@@ -19,7 +19,7 @@ It automates repetitive tasks such as uploading files, filling metadata, and con
 
 ## 📂 Project Structure
 
-LICENSE                      – License file (MIT)  
+LICENSE  &nbsp;&nbsp;                    – License file (MIT)  
 README.md                    – Project documentation  
 
 UiPath-Bulk-NFT-Minting/  
