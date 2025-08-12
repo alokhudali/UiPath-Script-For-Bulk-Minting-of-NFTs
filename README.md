@@ -19,12 +19,17 @@ It automates repetitive tasks such as uploading files, filling metadata, and con
 
 ## 📂 Project Structure
 
+📄 LICENSE – &nbsp;&nbsp;📜 License file (MIT)
+📄 README.md – &nbsp;&nbsp;📝 Project documentation
 📁 UiPath-Bulk-NFT-Minting  
-├── Main.xaml &nbsp;&nbsp;# Main UiPath workflow  
-├── Config.xlsx &nbsp;&nbsp;# NFT metadata configuration file  
-├── Assets/ &nbsp;&nbsp;# NFT images or files to be minted  
-├── Logs/ &nbsp;&nbsp;# Execution logs  
-└── README.md &nbsp;&nbsp;# Project documentation  
+├── 📁 .objects/ – &nbsp;&nbsp;⚙️ UiPath generated object files
+├── 📁 .project/ – &nbsp;&nbsp;📂 Project settings and configuration
+├── 📁 .screenshots/ – &nbsp;&nbsp;📸 Captured screenshots for reference
+├── 📁 .settings/ – &nbsp;&nbsp;⚙️ UiPath project settings
+├── 📁 .tmh/ – &nbsp;&nbsp;🗂 Temporary metadata/history files
+├── 📄 Main.xaml – &nbsp;&nbsp;🚀 Main UiPath workflow for NFT bulk minting
+├── 📄 Sequence.xaml – &nbsp;&nbsp;🔄 Supporting sequence workflow
+└── 📄 project.json – &nbsp;&nbsp;📋 UiPath project definition file 
 
 
 ---
