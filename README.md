@@ -64,3 +64,4 @@ It automates repetitive tasks such as uploading files, filling metadata, and con
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+You are free to use, modify, and distribute this software with proper attribution.
