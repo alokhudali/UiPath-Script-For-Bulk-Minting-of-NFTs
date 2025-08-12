@@ -1,4 +1,6 @@
 # 🖼️ UiPath Script for Bulk NFT Minting on Mintable.com
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 This repository contains a **UiPath automation workflow** designed to **bulk mint NFTs** on [Mintable.com](https://mintable.com) efficiently.  
 It automates repetitive tasks such as uploading files, filling metadata, and confirming minting actions — saving hours of manual work.
