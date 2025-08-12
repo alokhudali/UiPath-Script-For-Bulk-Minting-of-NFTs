@@ -1,0 +1,1 @@
+# UiPath-Script-For-Bulk-Minting-of-NFTs
