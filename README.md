@@ -1,4 +1,4 @@
-# 🖼️ UiPath Script for Bulk NFT Minting on Mintable.com
+# UiPath Script for Bulk NFT Minting on Mintable.com
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
