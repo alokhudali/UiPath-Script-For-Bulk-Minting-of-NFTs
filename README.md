@@ -17,12 +17,12 @@ It automates repetitive tasks such as uploading files, filling metadata, and con
 
 ## 📂 Project Structure
 
-📁 UiPath-Bulk-NFT-Minting
-├── Main.xaml # Main UiPath workflow
-├── Config.xlsx # NFT metadata configuration file
-├── Assets/ # NFT images or files to be minted
-├── Logs/ # Execution logs
-└── README.md # Project documentation
+📁 UiPath-Bulk-NFT-Minting  
+├── Main.xaml &nbsp;&nbsp;# Main UiPath workflow  
+├── Config.xlsx &nbsp;&nbsp;# NFT metadata configuration file  
+├── Assets/ &nbsp;&nbsp;# NFT images or files to be minted  
+├── Logs/ &nbsp;&nbsp;# Execution logs  
+└── README.md &nbsp;&nbsp;# Project documentation  
 
 
 ---
